@@ -1,3 +1,3 @@
 # StockMarketAnalysis
 
-Stock Market Analysis using Sentiment Analysis
+Stock Market Analysis using Numerical and Sentiment Analysis
